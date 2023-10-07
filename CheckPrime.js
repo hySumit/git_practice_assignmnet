@@ -1,6 +1,6 @@
 let num = 13;
 count = 0;
-for (let i = 0; i>= num; i++){
+for (let i = 1; i<= num; i++){
     if(n%i===0){
         count +=1
     }
